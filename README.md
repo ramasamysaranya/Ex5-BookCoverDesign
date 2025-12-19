@@ -112,7 +112,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Uploading Screenshot 2025-12-19 111217book.png…]()
+<img width="577" height="852" alt="Screenshot 2025-12-19 111217book" src="https://github.com/user-attachments/assets/7d0d6e0b-c1ca-4ae6-a938-3a20054d69fa" />
+
 
 
 ## RESULT:
