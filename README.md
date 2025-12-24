@@ -115,7 +115,7 @@ Publish the website in the LocalHost.
 <<<<<<< HEAD
 ![alt text](<Screenshot 2025-12-19 111217book.png>)
 =======
-<img width="577" height="852" alt="Screenshot 2025-12-19 111217book" src="https://github.com/user-attachments/assets/7d0d6e0b-c1ca-4ae6-a938-3a20054d69fa" />
+
 
 
 >>>>>>> 5ba708a849f986356e58714d0d260e808437ce0d
